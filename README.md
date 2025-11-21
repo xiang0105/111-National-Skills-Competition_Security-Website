@@ -12,7 +12,6 @@
 
 ## 專案結構
 
-/
 ├── _notes/ # 編輯器產生的設定資料，可忽略
 ├── css/ # 樣式（包含 Bootstrap 與自訂 CSS）
 ├── images/ # 頁面用圖片（banner、海報等）
