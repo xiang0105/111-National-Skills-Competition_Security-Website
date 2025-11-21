@@ -12,6 +12,7 @@
 
 ## 專案結構
 
+```
 ├── _notes/ # 編輯器產生的設定資料，可忽略
 ├── css/ # 樣式（包含 Bootstrap 與自訂 CSS）
 ├── images/ # 頁面用圖片（banner、海報等）
@@ -23,7 +24,7 @@
 ├── register.php # 會員註冊功能
 ├── content.txt # 文字或簡易資料來源
 └── README.md # 說明文件
-
+```
 
 ---
 
